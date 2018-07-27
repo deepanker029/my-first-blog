@@ -83,7 +83,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'OPTIONS': {
-            'read_default_file': '/Volumes/Data/Study/dj/mysite/mysql.cnf',
+            'read_default_file': '/home/deepanker029/deepanker029.pythonanywhere.com/mysite/mysql.cnf',
         },
 #        'NAME': 'polls_db',
 #        'USER': 'polls',

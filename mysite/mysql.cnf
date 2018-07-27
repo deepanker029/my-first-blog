@@ -1,5 +1,6 @@
 [client]
-database = 'polls_db'
-user = 'polls'
-password = 'polls'
+host = 'deepanker029.mysql.pythonanywhere-services.com'
+database = 'deepanker029$polls_db'
+user = 'deepanker029'
+password = 'polls123'
 default-character-set = utf8
