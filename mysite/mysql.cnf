@@ -1,0 +1,5 @@
+[client]
+database = 'polls_db'
+user = 'polls'
+password = 'polls'
+default-character-set = utf8
